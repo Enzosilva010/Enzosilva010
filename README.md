@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://www.reddit.com/r/BlueLock/comments/15p52p3/happy_birthday_reo/?tl=pt-br" width="100%">
-</p>
 
-<img src="https://makeagif.com/gif/reo-mikage-goal-vs-nigeria-blue-lock-u20-wc-manga-animation--lUWDt" width="400">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9mM3U2ZWRubG9xMzljcGx2NXl5d3k2Mm9tN2tmMTVocHRrMmEwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jskL2IJR5hTdCUxAQC/giphy.gif" width="400">
 
 #Olá
 
